@@ -91,6 +91,14 @@ CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/32212
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=d3586d7b0b507ae93a537b9a9f74587f&wsTime=1739116234
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=96881af651af39dea58ce87dabeb51da&wsTime=1739116234
 
+🇨🇳新闻联播天气预报,#genre#
+新闻联播天气预报20250209,https://vod.weathertv.cn/video/2025/2/9/202502091739106922670.mp4
+新闻联播天气预报20250208,https://vod.weathertv.cn/video/2025/2/8/202502081739027687803.mp4
+
+cn朝闻天下天气预报,#genre#
+CCTV1/新闻频道播出 20250209 07:55,https://vod.weathertv.cn/video/2025/2/9/202502091739061298148.mp4
+CCTV1/新闻频道播出 20250209 06:55,https://vod.weathertv.cn/video/2025/2/9/202502091739058296866.mp4
+
 省级卫视,#genre#
 
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
